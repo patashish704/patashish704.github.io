@@ -1,6 +1,6 @@
 ## Contents:
 {: .no_toc}
-* TOC
+- TOC
 {:toc}
 # Improve_Productivity_with_Linux
 {: .no_toc }
