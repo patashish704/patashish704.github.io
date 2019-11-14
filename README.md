@@ -1,13 +1,11 @@
 # Improve_Productivity_with_Linux
-{: .no_toc }
 Here I provide a series of tips that will drastically improve your productivity
 in Linux. To give full credit the original developers, I will give direct link 
 to their work, and will provide additional information where it is warranted.
 
 ## Contents:
-{: .no_toc}
-- TOC
-{:toc}
+- [Faster transfers between Remote and client](#faster-transfers-between-remote-server-and-client)
+	- [OneDrive in Linux](#onedrive-in-linux)
 
 ## Faster transfers between remote server and client
 The scp and rsync are great for transferring small files, like your source code
