@@ -1,4 +1,4 @@
-Contents:
+## Contents:
 {:toc}
 # Improve_Productivity_with_Linux
 Here I provide a series of tips that will drastically improve your productivity
