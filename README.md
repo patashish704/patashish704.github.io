@@ -1,6 +1,9 @@
 ## Contents:
+{: .no_toc}
+1. TOC
 {:toc}
 # Improve_Productivity_with_Linux
+{: .no_toc }
 Here I provide a series of tips that will drastically improve your productivity
 in Linux. To give full credit the original developers, I will give direct link 
 to their work, and will provide additional information where it is warranted.
